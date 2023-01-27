@@ -27,7 +27,7 @@ end the program
 Devloped by : M Nikhil
 
 Register number : 22008584
-```
+```python
 with open("sample1.txt","r")as firstfile:
     with open("sample2.txt","a")as second file:
         for line firstfile:
